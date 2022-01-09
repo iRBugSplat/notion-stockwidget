@@ -135,7 +135,7 @@
     }
   ],
   "showSymbolLogo": true,
-  "colorTheme": "dark",
+  "colorTheme": "light",
   "isTransparent": true,
-  "locale": "en"
+  "locale": "de_DE"
 }
